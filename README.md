@@ -1,2 +1,2 @@
 # JavaCourseBasics
-Java projects done in a java course
+Multiple java projects done in a java course
